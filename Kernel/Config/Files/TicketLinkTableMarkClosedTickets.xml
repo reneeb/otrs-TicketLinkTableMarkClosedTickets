@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<otrs_config version="1.0" init="Config">
+    <ConfigItem Name="LinkTicket::StrikeThroughStates" Required="0" Valid="1">
+        <Description Translatable="1">Frontend module registration for the checklist state administration.</Description>
+        <Group>TicketLinkTableMarkClosedTickets</Group>
+        <SubGroup>Core</SubGroup>
+        <Setting>
+            <Array>
+                <Item>merged</Item>
+                <Item>closed</Item>
+            </Array>
+        </Setting>
+    </ConfigItem>
+</otrs_config>

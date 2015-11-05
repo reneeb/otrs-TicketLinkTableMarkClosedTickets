@@ -1,0 +1,16 @@
+{
+    "name": "TicketLinkTableMarkClosedTickets",
+    "version": "4.0.1",
+    "framework": [
+        "4.0.x"
+    ],
+    "vendor": {
+        "name":  "Perl-Services.de",
+        "url": "http://www.perl-services.de"
+    },
+    "license": "GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007",
+    "description" : {
+        "en": "Strike through the ticket number of closed tickets in link table (AgentTicketZoom)",
+        "de": "Ticketnummern von geschlossenen Tickets in der Linktabelle durchstreichen (AgentTicketZoom"
+    }
+}
