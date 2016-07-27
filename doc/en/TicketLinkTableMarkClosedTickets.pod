@@ -7,6 +7,18 @@ TicketLinkTableMarkClosedTickets - mark closed tickets in link table (AgentTicke
 In stock OTRS only the ticket numbers of merged tickets are striked through in the linktable
 (in AgentTicketZoom). With this addon you can define the ticket states that are shown striked through.
 
+=head1 CONTRIBUTORS
+
+(ordered by date of first contribution)
+
+=over 4
+
+=item * Michael König (Assystem GmbH)
+
+Ported module to OTRS5.
+
+=back
+
 =head1 BUGTRACKER AND CODE
 
 The bugtracker and code repository are available at L<https://github.com/reneeb-TicketLinkTableMarkClosedTickets>.
